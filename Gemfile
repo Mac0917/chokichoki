@@ -76,7 +76,7 @@ gem "refile-mini_magick"
 #jquery cookie.js bootstrap
 gem "jquery-rails"
 gem "js_cookie_rails"
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 #password_digestの値を乱数化
 gem 'bcrypt',  '3.1.12'  
